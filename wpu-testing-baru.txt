@@ -1,7 +1,8 @@
 Contoh Branching
 - branch
   + contoh implementasi branch
-  +
+    = Belajar branch 2
 - membuat branch baru lagi
 -merge
+ - membyat marge baru
 -coommit
