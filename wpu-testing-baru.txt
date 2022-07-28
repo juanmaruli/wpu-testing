@@ -4,4 +4,6 @@ Contoh Branching
   +
 - membuat branch baru lagi
 -merge
+  + membuat merger
 -coommit
+  +commit baru
