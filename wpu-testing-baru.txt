@@ -4,5 +4,7 @@ Contoh Branching
     = Belajar branch 2
 - membuat branch baru lagi
 -merge
- - membyat marge baru
+  + membuat merger
 -coommit
+  +commit baru
+- tambah
