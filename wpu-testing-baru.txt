@@ -7,3 +7,4 @@ Contoh Branching
   + membuat merger
 -coommit
   +commit baru
+- tambah
